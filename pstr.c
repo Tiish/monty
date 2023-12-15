@@ -5,8 +5,6 @@
  * @head: stack head
  * @counter: line_number
  * Return: no return
- * Author:Tiish
- * Github:Tiish
 */
 void f_pstr(stack_t **head, unsigned int counter)
 {
@@ -25,4 +23,5 @@ void f_pstr(stack_t **head, unsigned int counter)
 	}
 	printf("\n");
 }
+
 
